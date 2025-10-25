@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="welcome_dashboard">Welcome to the Dashboard!</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_signup">New User? Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
+
